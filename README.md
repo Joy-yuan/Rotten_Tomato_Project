@@ -4,10 +4,10 @@
 </div>
 
 -----------------
-## Group Name:
-## Section
+## Group Name: Wonder Women 4.0
+## Section: 2
 
-## The Goal of the project
+## The Goal of the project: Analyze the different kinds of movie features & Predict the box_office of future movies based on machine learning models
 
 ## What we have been implemented:
 
