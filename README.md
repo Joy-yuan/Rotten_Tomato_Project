@@ -4,29 +4,29 @@
 </div>
 
 -----------------
-##Group Name:
-##Section
+## Group Name:
+## Section
 
-##The Goal of the project
-
-
-
-##What we have been implemented:
-####1.Scrap data
+## The Goal of the project
 
 
-###2. Basic Analysis
-####2.1 Visualization 
+
+## What we have been implemented:
+#### 1.Scrap data
 
 
-####2.2 Text Mining
+### 2. Basic Analysis
+#### 2.1 Visualization 
 
 
-####3. Modeling & Prediction
+#### 2.2 Text Mining
 
 
-##Instalaation instruction
+#### 3. Modeling & Prediction
 
 
-##Run instructiog
+## Instalaation instruction:
+
+
+## Run instruction:
 
