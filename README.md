@@ -26,7 +26,7 @@ We analyzed the box office distribution, trend of movie quantities for each genr
 ### FUN TIME! Know more about your favorite director!
 This part allows reader to input the name of his/her favorite director, and a chart indicates the genre and box office preference of this director will be returned.
 
-### 3 Text Mining
+### 3. Text Mining
 
 For the first part of the text mining, we did the word cloud for all reviews for 500 movies. We use three approaches, including the Hu and Liu’s sentiment analysis lexicon, NRC sentiment data analysis and the Vader analysis to perform the sentiment analysis for those reviews. We work out the rankings of the movies’ reviews and pick up the top four movies for each method. The review word cloud for these four movies are then presented. We conclude that the NRC sentiment data analysis provides a more relatively accurate result for this problem.
 
