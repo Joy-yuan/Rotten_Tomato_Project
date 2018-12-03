@@ -43,7 +43,7 @@ We applied Word Embedding, Lasso, Linear Regression, Random Forest and XGBoost f
 This part allows reader to input the movie index in our test data set, the predicted box office and real box office will be returned. (The trained XGBoost model could also be used for future box office prediction! But due to the complexity of data preprocessing and Lasso, we decided to use test data to realize this function.)
 
 ## Installation instruction:
-see requirement.txt for instruction
+see requirements.txt for instruction
 
 ## Run instruction:
 Please go to "Final_Project", then enter "Part II- Analysis+Visualization+Text_mining+Modelling.ipynb". Then, please run all the codes in the file. Please enjoy the fun parts inside. We aslo provide exported html file in the "Final_Project" .
