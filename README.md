@@ -13,7 +13,7 @@
 
 #### 1.Scrap data & Data cleaning
 
-
+We also scraped all top reviews from movie critics for each movie from 2014 to 2018 in the "top 100 movies" list from that year. 
 ### 2. Basic Analysis & Visualization 
 
 We analyzed the box office distribution, genre trend, rating distribution and director explorations.
@@ -25,9 +25,9 @@ This part allows reader to input his/her favorite director, and a chart indicate
 
 ### 3 Text Mining
 
-### FUN TIME! Get your favorite movie's reviews!¶
+For each of the 500 movies, we conducted text summarization on all reviews. The program generates a short paragraph of summary of reviews for each movie.
 
-This part allows reader to input his/her favorite movie's name, and the summarization based on our text mining model will be returned.
+In the 'FUN TIME!' section, you will also be able to type in any movie name between 2014 to 2018, and receive the summary of how critics evaluate this movie, given that this movie is in our database.
 
 ### 4. Modeling & Prediction
 
